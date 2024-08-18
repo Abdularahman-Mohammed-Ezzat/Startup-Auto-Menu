@@ -1,0 +1,67 @@
+{
+  "catigories": {
+    "Improvement": {
+      "Addons": {
+        "Chatgpt": ""
+      },
+      "Status": "Checkbox",
+      "Writer": "",
+      "Iotas": "",
+      "Notion": "",
+      "Obsidian": "",
+      "Figma": "",
+      "Xmind": ""
+    },
+    "Developing": {
+      "Addons": {
+        "Chatgpt": "",
+        "Terminal": "",
+        "Github": "",
+        "File Explorer": ""
+      },
+      "Status": "Checkbox",
+      "Vscode": ""
+    },
+    "Browseing": {
+      "Addons": {
+        "Chatgpt": ""
+      },
+      "Status": "Chose",
+      "Chrome": ""
+    },
+    "Watching": {
+      "Addons": {
+        "Chatgpt": ""
+      },
+      "Status": "Checkbox",
+      "Youtube": "",
+      "Chrome": "",
+      "Disk Drive": ""
+    },
+    "Learning": {
+      "Addons": {
+        "Chatgpt": "",
+        "File Explorer": "",
+        "Quick Acsess List": "",
+        "Markdown": ""
+      },
+      "Status": "Checkbox",
+      "Youtube": "",
+      "Chrome": "",
+      "Khan Academy": "",
+      "Coursera": ""
+    },
+    "Teaching": {
+      "Addons": {
+        "Chatgpt": "",
+        "File Explorer": "",
+        "Markdown": ""
+      },
+      "Status": "Checkbox",
+      "Whatsapp": "",
+      "Zoom": "",
+      "Writer": "",
+      "Impress": ""
+    }
+  }
+}
