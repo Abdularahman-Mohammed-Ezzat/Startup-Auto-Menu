@@ -1,0 +1,67 @@
+{
+  "catigories": {
+    "Improvement": {
+      "Addons": {
+        "Chatgpt": ""
+      },
+      "Status": "Checkbox",
+      "Writer": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice org.libreoffice.LibreOffice --writer",
+      "Iotas": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=iotas --file-forwarding org.gnome.World.Iotas",
+      "Notion": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=cohesion --file-forwarding io.github.brunofin.Cohesion",
+      "Obsidian": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=obsidian.sh --file-forwarding md.obsidian.Obsidian",
+      "Figma": "/home/boda-mado/figma-linux-x64/figma",
+      "Xmind": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=xmind --file-forwarding net.xmind.XMind"
+    },
+    "Developing": {
+      "Addons": {
+        "Chatgpt": "",
+        "Terminal": "",
+        "Github": "",
+        "File Explorer": ""
+      },
+      "Status": "Checkbox",
+      "Vscode": ["code"]
+    },
+    "Browseing": {
+      "Addons": {
+        "Chatgpt": ""
+      },
+      "Status": "Chose",
+      "Chrome": ""
+    },
+    "Watching": {
+      "Addons": {
+        "Chatgpt": ""
+      },
+      "Status": "Checkbox",
+      "Youtube": "",
+      "Chrome": "",
+      "Disk Drive": ""
+    },
+    "Learning": {
+      "Addons": {
+        "Chatgpt": "",
+        "File Explorer": "",
+        "Quick Acsess List": "",
+        "Markdown": ""
+      },
+      "Status": "Checkbox",
+      "Youtube": "",
+      "Chrome": "",
+      "Khan Academy": "",
+      "Coursera": ""
+    },
+    "Teaching": {
+      "Addons": {
+        "Chatgpt": "",
+        "File Explorer": "",
+        "Markdown": ""
+      },
+      "Status": "Checkbox",
+      "Whatsapp": "",
+      "Zoom": "",
+      "Writer": "",
+      "Impress": ""
+    }
+  }
+}

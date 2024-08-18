@@ -57,7 +57,7 @@
   <h2>Customization</h2>
   <p>To add or modify task categories and tools:</p>
   <ol>
-      <li>Edit the <code>menu_config.json</code> file in the project directory.</li>
+      <li>Edit the <code>menu_configurations.json</code> file in the project directory.</li>
       <li>Follow the JSON structure to add new categories or tools.</li>
   </ol>
   <p>Example:</p>
